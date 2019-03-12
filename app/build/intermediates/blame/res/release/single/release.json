@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_edit_item.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\layout\\activity_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_todo.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\layout\\activity_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\menu_edit_item.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\menu\\edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\menu_todo.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\menu\\todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\po\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\po\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
